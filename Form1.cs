@@ -29,6 +29,7 @@ namespace PesticideSimulator
                     enemy.enemyStage++;
                 }
                 await Task.Delay(500);
+                //Test
             }
         }
 
